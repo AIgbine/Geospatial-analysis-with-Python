@@ -1,0 +1,2162 @@
+[
+    {
+        "type": "Feature",
+        "id": "c6ac9f84-4d18-5bd8-b42b-570b47b59083",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        2.9638153600659,
+                        49.651718237967
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        2.4957553334525,
+                        48.661566444891
+                    ],
+                    [
+                        2.4987163379723,
+                        48.66795181407
+                    ],
+                    [
+                        2.5135806218372,
+                        48.699835632353
+                    ],
+                    [
+                        2.5665799232021,
+                        48.813605307865
+                    ],
+                    [
+                        2.6343975809255,
+                        48.958264998661
+                    ],
+                    [
+                        2.7023152459365,
+                        49.102874431665
+                    ],
+                    [
+                        2.7706505511378,
+                        49.247447030017
+                    ],
+                    [
+                        2.8395814641015,
+                        49.391957090203
+                    ],
+                    [
+                        2.9083053404045,
+                        49.536521535061
+                    ],
+                    [
+                        2.9638153600659,
+                        49.651718237967
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2B_MSIL1C_20220717T105629_N0400_R094_T31UDQ_20220717T114615.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-07-17T10:56:29.024000Z",
+            "completionDate": "2022-07-17T10:56:29.024000Z",
+            "productType": "S2MSI1C",
+            "processingLevel": "S2MSI1C",
+            "platform": "S2B",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "INS-NOBS",
+            "orbitNumber": 28005,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L1C/2022/07/17/S2B_MSIL1C_20220717T105629_N0400_R094_T31UDQ_20220717T114615.SAFE/S2B_MSIL1C_20220717T105629_N0400_R094_T31UDQ_20220717T114615-ql.jpg",
+            "updated": "2022-07-17T14:36:07.292354Z",
+            "published": "2022-07-17T14:36:07.292354Z",
+            "snowCover": 0,
+            "cloudCover": 2.67963722566288,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>2.9638153600659,49.651718237967 1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 2.4957553334525,48.661566444891 2.4987163379723,48.66795181407 2.5135806218372,48.699835632353 2.5665799232021,48.813605307865 2.6343975809255,48.958264998661 2.7023152459365,49.102874431665 2.7706505511378,49.247447030017 2.8395814641015,49.391957090203 2.9083053404045,49.536521535061 2.9638153600659,49.651718237967</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.1864439154520725,
+                    49.19075546536272
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L1C/2022/07/17/S2B_MSIL1C_20220717T105629_N0400_R094_T31UDQ_20220717T114615.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 94,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2B_20220717T105629_028005_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/c6ac9f84-4d18-5bd8-b42b-570b47b59083",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for c6ac9f84-4d18-5bd8-b42b-570b47b59083",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/c6ac9f84-4d18-5bd8-b42b-570b47b59083.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "3fbabe1e-2cb8-5956-b103-be9458e5cb57",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        2.9638153600659,
+                        49.651718237967
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        2.4957553334525,
+                        48.661566444891
+                    ],
+                    [
+                        2.4987163379723,
+                        48.66795181407
+                    ],
+                    [
+                        2.5135806218372,
+                        48.699835632353
+                    ],
+                    [
+                        2.5665799232021,
+                        48.813605307865
+                    ],
+                    [
+                        2.6343975809255,
+                        48.958264998661
+                    ],
+                    [
+                        2.7023152459365,
+                        49.102874431665
+                    ],
+                    [
+                        2.7706505511378,
+                        49.247447030017
+                    ],
+                    [
+                        2.8395814641015,
+                        49.391957090203
+                    ],
+                    [
+                        2.9083053404045,
+                        49.536521535061
+                    ],
+                    [
+                        2.9638153600659,
+                        49.651718237967
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2B_MSIL2A_20220717T105629_N0400_R094_T31UDQ_20220717T123555.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-07-17T10:56:29.024000Z",
+            "completionDate": "2022-07-17T10:56:29.024000Z",
+            "productType": "S2MSI2A",
+            "processingLevel": "S2MSI2A",
+            "platform": "S2B",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "",
+            "orbitNumber": 28005,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L2A/2022/07/17/S2B_MSIL2A_20220717T105629_N0400_R094_T31UDQ_20220717T123555.SAFE/S2B_MSIL2A_20220717T105629_N0400_R094_T31UDQ_20220717T123555-ql.jpg",
+            "updated": "2022-07-17T16:25:51.404650Z",
+            "published": "2022-07-17T16:25:51.404650Z",
+            "snowCover": 0,
+            "cloudCover": 5.6253,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>2.9638153600659,49.651718237967 1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 2.4957553334525,48.661566444891 2.4987163379723,48.66795181407 2.5135806218372,48.699835632353 2.5665799232021,48.813605307865 2.6343975809255,48.958264998661 2.7023152459365,49.102874431665 2.7706505511378,49.247447030017 2.8395814641015,49.391957090203 2.9083053404045,49.536521535061 2.9638153600659,49.651718237967</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.1864439154520725,
+                    49.19075546536272
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L2A/2022/07/17/S2B_MSIL2A_20220717T105629_N0400_R094_T31UDQ_20220717T123555.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 94,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2B_20220717T105629_028005_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/3fbabe1e-2cb8-5956-b103-be9458e5cb57",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for 3fbabe1e-2cb8-5956-b103-be9458e5cb57",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/3fbabe1e-2cb8-5956-b103-be9458e5cb57.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "52685e5d-2047-536c-b538-2ecf6c4e8b90",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        3.1325513271237,
+                        48.664955151836
+                    ],
+                    [
+                        3.1352135957809,
+                        49.652643868752
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2A_MSIL1C_20220719T105041_N0400_R051_T31UDQ_20220719T143242.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-07-19T10:50:41.025000Z",
+            "completionDate": "2022-07-19T10:50:41.025000Z",
+            "productType": "S2MSI1C",
+            "processingLevel": "S2MSI1C",
+            "platform": "S2A",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "INS-NOBS",
+            "orbitNumber": 36942,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L1C/2022/07/19/S2A_MSIL1C_20220719T105041_N0400_R051_T31UDQ_20220719T143242.SAFE/S2A_MSIL1C_20220719T105041_N0400_R051_T31UDQ_20220719T143242-ql.jpg",
+            "updated": "2022-07-19T17:59:00.234267Z",
+            "published": "2022-07-19T17:59:00.234267Z",
+            "snowCover": 0,
+            "cloudCover": 0.0,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 3.1325513271237,48.664955151836 3.1352135957809,49.652643868752 1.6142723681857,49.644430073461</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.3808906045340774,
+                    49.15639852556323
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L1C/2022/07/19/S2A_MSIL1C_20220719T105041_N0400_R051_T31UDQ_20220719T143242.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 51,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2A_20220719T105041_036942_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/52685e5d-2047-536c-b538-2ecf6c4e8b90",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for 52685e5d-2047-536c-b538-2ecf6c4e8b90",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/52685e5d-2047-536c-b538-2ecf6c4e8b90.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "d61fea79-0a1e-5a44-864a-82e01a62cdd1",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        3.1325513271237,
+                        48.664955151836
+                    ],
+                    [
+                        3.1352135957809,
+                        49.652643868752
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2A_MSIL2A_20220719T105041_N0400_R051_T31UDQ_20220719T170208.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-07-19T10:50:41.025000Z",
+            "completionDate": "2022-07-19T10:50:41.025000Z",
+            "productType": "S2MSI2A",
+            "processingLevel": "S2MSI2A",
+            "platform": "S2A",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "",
+            "orbitNumber": 36942,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L2A/2022/07/19/S2A_MSIL2A_20220719T105041_N0400_R051_T31UDQ_20220719T170208.SAFE/S2A_MSIL2A_20220719T105041_N0400_R051_T31UDQ_20220719T170208-ql.jpg",
+            "updated": "2022-07-19T18:50:59.272945Z",
+            "published": "2022-07-19T18:50:59.272945Z",
+            "snowCover": 0,
+            "cloudCover": 0.001629,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 3.1325513271237,48.664955151836 3.1352135957809,49.652643868752 1.6142723681857,49.644430073461</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.3808906045340774,
+                    49.15639852556323
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L2A/2022/07/19/S2A_MSIL2A_20220719T105041_N0400_R051_T31UDQ_20220719T170208.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 51,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2A_20220719T105041_036942_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/d61fea79-0a1e-5a44-864a-82e01a62cdd1",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for d61fea79-0a1e-5a44-864a-82e01a62cdd1",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/d61fea79-0a1e-5a44-864a-82e01a62cdd1.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "7abbfee3-d427-57c4-8955-cb35fdc76407",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        3.1325513271237,
+                        48.664955151836
+                    ],
+                    [
+                        3.1352135957809,
+                        49.652643868752
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2A_MSIL1C_20220729T104631_N0400_R051_T31UDQ_20220729T160922.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-07-29T10:46:31.024000Z",
+            "completionDate": "2022-07-29T10:46:31.024000Z",
+            "productType": "S2MSI1C",
+            "processingLevel": "S2MSI1C",
+            "platform": "S2A",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "INS-NOBS",
+            "orbitNumber": 37085,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L1C/2022/07/29/S2A_MSIL1C_20220729T104631_N0400_R051_T31UDQ_20220729T160922.SAFE/S2A_MSIL1C_20220729T104631_N0400_R051_T31UDQ_20220729T160922-ql.jpg",
+            "updated": "2022-07-29T19:31:07.012422Z",
+            "published": "2022-07-29T19:31:07.012422Z",
+            "snowCover": 0,
+            "cloudCover": 1.3061900922691,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 3.1325513271237,48.664955151836 3.1352135957809,49.652643868752 1.6142723681857,49.644430073461</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.3808906045340774,
+                    49.15639852556323
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L1C/2022/07/29/S2A_MSIL1C_20220729T104631_N0400_R051_T31UDQ_20220729T160922.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 51,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2A_20220729T104631_037085_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/7abbfee3-d427-57c4-8955-cb35fdc76407",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for 7abbfee3-d427-57c4-8955-cb35fdc76407",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/7abbfee3-d427-57c4-8955-cb35fdc76407.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "f99fd8b9-ca3d-5325-9738-3790ae2ab21f",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        3.1325513271237,
+                        48.664955151836
+                    ],
+                    [
+                        3.1352135957809,
+                        49.652643868752
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2A_MSIL2A_20220729T104631_N0400_R051_T31UDQ_20220729T184305.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-07-29T10:46:31.024000Z",
+            "completionDate": "2022-07-29T10:46:31.024000Z",
+            "productType": "S2MSI2A",
+            "processingLevel": "S2MSI2A",
+            "platform": "S2A",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "",
+            "orbitNumber": 37085,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L2A/2022/07/29/S2A_MSIL2A_20220729T104631_N0400_R051_T31UDQ_20220729T184305.SAFE/S2A_MSIL2A_20220729T104631_N0400_R051_T31UDQ_20220729T184305-ql.jpg",
+            "updated": "2022-07-29T21:15:57.097649Z",
+            "published": "2022-07-29T21:15:57.097649Z",
+            "snowCover": 0,
+            "cloudCover": 3.397062,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 3.1325513271237,48.664955151836 3.1352135957809,49.652643868752 1.6142723681857,49.644430073461</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.3808906045340774,
+                    49.15639852556323
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L2A/2022/07/29/S2A_MSIL2A_20220729T104631_N0400_R051_T31UDQ_20220729T184305.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 51,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2A_20220729T104631_037085_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/f99fd8b9-ca3d-5325-9738-3790ae2ab21f",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for f99fd8b9-ca3d-5325-9738-3790ae2ab21f",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/f99fd8b9-ca3d-5325-9738-3790ae2ab21f.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "3d3af6e6-5663-5f22-b833-ae1b76d6ab82",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        3.1325513271237,
+                        48.664955151836
+                    ],
+                    [
+                        3.1352135957809,
+                        49.652643868752
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2B_MSIL2A_20220803T104629_N0400_R051_T31UDQ_20220803T122243.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-08-03T10:46:29.024000Z",
+            "completionDate": "2022-08-03T10:46:29.024000Z",
+            "productType": "S2MSI2A",
+            "processingLevel": "S2MSI2A",
+            "platform": "S2B",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "",
+            "orbitNumber": 28248,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L2A/2022/08/03/S2B_MSIL2A_20220803T104629_N0400_R051_T31UDQ_20220803T122243.SAFE/S2B_MSIL2A_20220803T104629_N0400_R051_T31UDQ_20220803T122243-ql.jpg",
+            "updated": "2022-08-03T15:48:37.061052Z",
+            "published": "2022-08-03T15:48:37.061052Z",
+            "snowCover": 0,
+            "cloudCover": 1.6714939999999998,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 3.1325513271237,48.664955151836 3.1352135957809,49.652643868752 1.6142723681857,49.644430073461</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.3808906045340774,
+                    49.15639852556323
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L2A/2022/08/03/S2B_MSIL2A_20220803T104629_N0400_R051_T31UDQ_20220803T122243.SAFE",
+            "orbitDirection": "ASCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 51,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2B_20220803T104629_028248_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/3d3af6e6-5663-5f22-b833-ae1b76d6ab82",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for 3d3af6e6-5663-5f22-b833-ae1b76d6ab82",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/3d3af6e6-5663-5f22-b833-ae1b76d6ab82.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "1619c48d-f85b-5f5f-b84d-7a29fcc3bf1d",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        2.967773489565,
+                        49.651739613721
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        2.4992826987549,
+                        48.661585215749
+                    ],
+                    [
+                        2.5177957276445,
+                        48.701453868732
+                    ],
+                    [
+                        2.5852270065747,
+                        48.846197067403
+                    ],
+                    [
+                        2.6531401583152,
+                        48.990922076639
+                    ],
+                    [
+                        2.7212460257019,
+                        49.135665281488
+                    ],
+                    [
+                        2.7899391252946,
+                        49.280317680391
+                    ],
+                    [
+                        2.8590526949172,
+                        49.424926064486
+                    ],
+                    [
+                        2.9282367606616,
+                        49.569550136925
+                    ],
+                    [
+                        2.967773489565,
+                        49.651739613721
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2B_MSIL1C_20220806T105629_N0400_R094_T31UDQ_20220806T114519.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-08-06T10:56:29.024000Z",
+            "completionDate": "2022-08-06T10:56:29.024000Z",
+            "productType": "S2MSI1C",
+            "processingLevel": "S2MSI1C",
+            "platform": "S2B",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "INS-NOBS",
+            "orbitNumber": 28291,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L1C/2022/08/06/S2B_MSIL1C_20220806T105629_N0400_R094_T31UDQ_20220806T114519.SAFE/S2B_MSIL1C_20220806T105629_N0400_R094_T31UDQ_20220806T114519-ql.jpg",
+            "updated": "2022-08-06T14:23:44.673207Z",
+            "published": "2022-08-06T14:23:44.673207Z",
+            "snowCover": 0,
+            "cloudCover": 0.254598113873084,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>2.967773489565,49.651739613721 1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 2.4992826987549,48.661585215749 2.5177957276445,48.701453868732 2.5852270065747,48.846197067403 2.6531401583152,48.990922076639 2.7212460257019,49.135665281488 2.7899391252946,49.280317680391 2.8590526949172,49.424926064486 2.9282367606616,49.569550136925 2.967773489565,49.651739613721</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.188256121819139,
+                    49.19069473005207
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L1C/2022/08/06/S2B_MSIL1C_20220806T105629_N0400_R094_T31UDQ_20220806T114519.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 94,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2B_20220806T105629_028291_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/1619c48d-f85b-5f5f-b84d-7a29fcc3bf1d",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for 1619c48d-f85b-5f5f-b84d-7a29fcc3bf1d",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/1619c48d-f85b-5f5f-b84d-7a29fcc3bf1d.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "e327c2be-0485-5c5b-9580-90a04de4611e",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        2.9537910799776,
+                        49.651664102158
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        2.4854140312172,
+                        48.661511413699
+                    ],
+                    [
+                        2.5452989525371,
+                        48.789555888703
+                    ],
+                    [
+                        2.6132506532587,
+                        48.934281934121
+                    ],
+                    [
+                        2.6811762595796,
+                        49.078992688478
+                    ],
+                    [
+                        2.7493762312596,
+                        49.223626464552
+                    ],
+                    [
+                        2.8181246270469,
+                        49.368160700023
+                    ],
+                    [
+                        2.8870435121686,
+                        49.512679476673
+                    ],
+                    [
+                        2.9537910799776,
+                        49.651664102158
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2A_MSIL2A_20220831T105631_N0400_R094_T31UDQ_20220831T170805.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-08-31T10:56:31.024000Z",
+            "completionDate": "2022-08-31T10:56:31.024000Z",
+            "productType": "S2MSI2A",
+            "processingLevel": "S2MSI2A",
+            "platform": "S2A",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "",
+            "orbitNumber": 37557,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L2A/2022/08/31/S2A_MSIL2A_20220831T105631_N0400_R094_T31UDQ_20220831T170805.SAFE/S2A_MSIL2A_20220831T105631_N0400_R094_T31UDQ_20220831T170805-ql.jpg",
+            "updated": "2022-08-31T19:13:14.577162Z",
+            "published": "2022-08-31T19:13:14.577162Z",
+            "snowCover": 0,
+            "cloudCover": 3.731345,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>2.9537910799776,49.651664102158 1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 2.4854140312172,48.661511413699 2.5452989525371,48.789555888703 2.6132506532587,48.934281934121 2.6811762595796,49.078992688478 2.7493762312596,49.223626464552 2.8181246270469,49.368160700023 2.8870435121686,49.512679476673 2.9537910799776,49.651664102158</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.1815170419779673,
+                    49.191079499290765
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L2A/2022/08/31/S2A_MSIL2A_20220831T105631_N0400_R094_T31UDQ_20220831T170805.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 94,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2A_20220831T105631_037557_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/e327c2be-0485-5c5b-9580-90a04de4611e",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for e327c2be-0485-5c5b-9580-90a04de4611e",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/e327c2be-0485-5c5b-9580-90a04de4611e.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "28c93fdc-435a-5503-b2e5-40a9be72a43e",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        2.9660481580407,
+                        49.651730296123
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        2.4978827171166,
+                        48.661577765753
+                    ],
+                    [
+                        2.5239045739849,
+                        48.717324150237
+                    ],
+                    [
+                        2.5918570824382,
+                        48.86204051134
+                    ],
+                    [
+                        2.6598258590541,
+                        49.006745994493
+                    ],
+                    [
+                        2.7279397199837,
+                        49.151383495659
+                    ],
+                    [
+                        2.7966780451814,
+                        49.295894112028
+                    ],
+                    [
+                        2.8652297532831,
+                        49.44035633232
+                    ],
+                    [
+                        2.9338914718473,
+                        49.584832259535
+                    ],
+                    [
+                        2.9660481580407,
+                        49.651730296123
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2A_MSIL1C_20220930T105851_N0400_R094_T31UDQ_20220930T144413.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-09-30T10:58:51.024000Z",
+            "completionDate": "2022-09-30T10:58:51.024000Z",
+            "productType": "S2MSI1C",
+            "processingLevel": "S2MSI1C",
+            "platform": "S2A",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "INS-NOBS",
+            "orbitNumber": 37986,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L1C/2022/09/30/S2A_MSIL1C_20220930T105851_N0400_R094_T31UDQ_20220930T144413.SAFE/S2A_MSIL1C_20220930T105851_N0400_R094_T31UDQ_20220930T144413-ql.jpg",
+            "updated": "2022-09-30T18:00:45.072724Z",
+            "published": "2022-09-30T18:00:45.072724Z",
+            "snowCover": 0,
+            "cloudCover": 9.0690574591142,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>2.9660481580407,49.651730296123 1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 2.4978827171166,48.661577765753 2.5239045739849,48.717324150237 2.5918570824382,48.86204051134 2.6598258590541,49.006745994493 2.7279397199837,49.151383495659 2.7966780451814,49.295894112028 2.8652297532831,49.44035633232 2.9338914718473,49.584832259535 2.9660481580407,49.651730296123</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.1877383119899796,
+                    49.190688565354584
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L1C/2022/09/30/S2A_MSIL1C_20220930T105851_N0400_R094_T31UDQ_20220930T144413.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 94,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2A_20220930T105851_037986_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/28c93fdc-435a-5503-b2e5-40a9be72a43e",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for 28c93fdc-435a-5503-b2e5-40a9be72a43e",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/28c93fdc-435a-5503-b2e5-40a9be72a43e.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "3a946e86-443a-519d-aa39-5ac5eb699510",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        3.1325513271237,
+                        48.664955151836
+                    ],
+                    [
+                        3.1352135957809,
+                        49.652643868752
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2B_MSIL2A_20220604T104619_N0400_R051_T31UDQ_20220604T124954.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-06-04T10:46:19.024000Z",
+            "completionDate": "2022-06-04T10:46:19.024000Z",
+            "productType": "S2MSI2A",
+            "processingLevel": "S2MSI2A",
+            "platform": "S2B",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "",
+            "orbitNumber": 27390,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L2A/2022/06/04/S2B_MSIL2A_20220604T104619_N0400_R051_T31UDQ_20220604T124954.SAFE/S2B_MSIL2A_20220604T104619_N0400_R051_T31UDQ_20220604T124954-ql.jpg",
+            "updated": "2022-06-04T19:58:13.641770Z",
+            "published": "2022-06-04T19:58:13.641770Z",
+            "snowCover": 0,
+            "cloudCover": 5.676309,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 3.1325513271237,48.664955151836 3.1352135957809,49.652643868752 1.6142723681857,49.644430073461</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.3808906045340774,
+                    49.15639852556323
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L2A/2022/06/04/S2B_MSIL2A_20220604T104619_N0400_R051_T31UDQ_20220604T124954.SAFE",
+            "orbitDirection": "ASCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 51,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2B_20220604T104619_027390_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/3a946e86-443a-519d-aa39-5ac5eb699510",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for 3a946e86-443a-519d-aa39-5ac5eb699510",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/3a946e86-443a-519d-aa39-5ac5eb699510.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "ff6ebcb1-aa8a-53a0-a063-fcbc5ff7a0d3",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        3.1325513271237,
+                        48.664955151836
+                    ],
+                    [
+                        3.1352135957809,
+                        49.652643868752
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2B_MSIL1C_20220813T104629_N0400_R051_T31UDQ_20220813T113233.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-08-13T10:46:29.024000Z",
+            "completionDate": "2022-08-13T10:46:29.024000Z",
+            "productType": "S2MSI1C",
+            "processingLevel": "S2MSI1C",
+            "platform": "S2B",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "INS-NOBS",
+            "orbitNumber": 28391,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L1C/2022/08/13/S2B_MSIL1C_20220813T104629_N0400_R051_T31UDQ_20220813T113233.SAFE/S2B_MSIL1C_20220813T104629_N0400_R051_T31UDQ_20220813T113233-ql.jpg",
+            "updated": "2022-08-13T14:28:44.834683Z",
+            "published": "2022-08-13T14:28:44.834683Z",
+            "snowCover": 0,
+            "cloudCover": 0.0,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 3.1325513271237,48.664955151836 3.1352135957809,49.652643868752 1.6142723681857,49.644430073461</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.3808906045340774,
+                    49.15639852556323
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L1C/2022/08/13/S2B_MSIL1C_20220813T104629_N0400_R051_T31UDQ_20220813T113233.SAFE",
+            "orbitDirection": "ASCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 51,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2B_20220813T104629_028391_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/ff6ebcb1-aa8a-53a0-a063-fcbc5ff7a0d3",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for ff6ebcb1-aa8a-53a0-a063-fcbc5ff7a0d3",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/ff6ebcb1-aa8a-53a0-a063-fcbc5ff7a0d3.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "4782b4ff-7356-5231-82b7-c3327c791b6e",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        3.1325513271237,
+                        48.664955151836
+                    ],
+                    [
+                        3.1352135957809,
+                        49.652643868752
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2B_MSIL2A_20220813T104629_N0400_R051_T31UDQ_20220813T122218.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-08-13T10:46:29.024000Z",
+            "completionDate": "2022-08-13T10:46:29.024000Z",
+            "productType": "S2MSI2A",
+            "processingLevel": "S2MSI2A",
+            "platform": "S2B",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "",
+            "orbitNumber": 28391,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L2A/2022/08/13/S2B_MSIL2A_20220813T104629_N0400_R051_T31UDQ_20220813T122218.SAFE/S2B_MSIL2A_20220813T104629_N0400_R051_T31UDQ_20220813T122218-ql.jpg",
+            "updated": "2022-08-13T18:06:35.888024Z",
+            "published": "2022-08-13T18:06:35.888024Z",
+            "snowCover": 0,
+            "cloudCover": 0.002273,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 3.1325513271237,48.664955151836 3.1352135957809,49.652643868752 1.6142723681857,49.644430073461</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.3808906045340774,
+                    49.15639852556323
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L2A/2022/08/13/S2B_MSIL2A_20220813T104629_N0400_R051_T31UDQ_20220813T122218.SAFE",
+            "orbitDirection": "ASCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 51,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2B_20220813T104629_028391_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/4782b4ff-7356-5231-82b7-c3327c791b6e",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for 4782b4ff-7356-5231-82b7-c3327c791b6e",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/4782b4ff-7356-5231-82b7-c3327c791b6e.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "ab81cefe-4e98-56be-b43e-1c68848a5fac",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        3.1325513271237,
+                        48.664955151836
+                    ],
+                    [
+                        3.1352135957809,
+                        49.652643868752
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2B_MSIL1C_20220803T104629_N0400_R051_T31UDQ_20220803T113612.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-08-03T10:46:29.024000Z",
+            "completionDate": "2022-08-03T10:46:29.024000Z",
+            "productType": "S2MSI1C",
+            "processingLevel": "S2MSI1C",
+            "platform": "S2B",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "INS-NOBS",
+            "orbitNumber": 28248,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L1C/2022/08/03/S2B_MSIL1C_20220803T104629_N0400_R051_T31UDQ_20220803T113612.SAFE/S2B_MSIL1C_20220803T104629_N0400_R051_T31UDQ_20220803T113612-ql.jpg",
+            "updated": "2022-08-03T14:45:42.972179Z",
+            "published": "2022-08-03T14:45:42.972179Z",
+            "snowCover": 0,
+            "cloudCover": 1.48144166741318,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 3.1325513271237,48.664955151836 3.1352135957809,49.652643868752 1.6142723681857,49.644430073461</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.3808906045340774,
+                    49.15639852556323
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L1C/2022/08/03/S2B_MSIL1C_20220803T104629_N0400_R051_T31UDQ_20220803T113612.SAFE",
+            "orbitDirection": "ASCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 51,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2B_20220803T104629_028248_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/ab81cefe-4e98-56be-b43e-1c68848a5fac",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for ab81cefe-4e98-56be-b43e-1c68848a5fac",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/ab81cefe-4e98-56be-b43e-1c68848a5fac.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "3ef1cd4c-f8f3-513e-8d7b-f058667d5f8b",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        2.967773489565,
+                        49.651739613721
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        2.4992826987549,
+                        48.661585215749
+                    ],
+                    [
+                        2.5177957276445,
+                        48.701453868732
+                    ],
+                    [
+                        2.5852270065747,
+                        48.846197067403
+                    ],
+                    [
+                        2.6531401583152,
+                        48.990922076639
+                    ],
+                    [
+                        2.7212460257019,
+                        49.135665281488
+                    ],
+                    [
+                        2.7899391252946,
+                        49.280317680391
+                    ],
+                    [
+                        2.8590526949172,
+                        49.424926064486
+                    ],
+                    [
+                        2.9282367606616,
+                        49.569550136925
+                    ],
+                    [
+                        2.967773489565,
+                        49.651739613721
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2B_MSIL2A_20220806T105629_N0400_R094_T31UDQ_20220806T123318.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-08-06T10:56:29.024000Z",
+            "completionDate": "2022-08-06T10:56:29.024000Z",
+            "productType": "S2MSI2A",
+            "processingLevel": "S2MSI2A",
+            "platform": "S2B",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "",
+            "orbitNumber": 28291,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L2A/2022/08/06/S2B_MSIL2A_20220806T105629_N0400_R094_T31UDQ_20220806T123318.SAFE/S2B_MSIL2A_20220806T105629_N0400_R094_T31UDQ_20220806T123318-ql.jpg",
+            "updated": "2022-08-06T16:58:15.639047Z",
+            "published": "2022-08-06T16:58:15.639047Z",
+            "snowCover": 0,
+            "cloudCover": 0.749429,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>2.967773489565,49.651739613721 1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 2.4992826987549,48.661585215749 2.5177957276445,48.701453868732 2.5852270065747,48.846197067403 2.6531401583152,48.990922076639 2.7212460257019,49.135665281488 2.7899391252946,49.280317680391 2.8590526949172,49.424926064486 2.9282367606616,49.569550136925 2.967773489565,49.651739613721</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.188256121819139,
+                    49.19069473005207
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L2A/2022/08/06/S2B_MSIL2A_20220806T105629_N0400_R094_T31UDQ_20220806T123318.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 94,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2B_20220806T105629_028291_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/3ef1cd4c-f8f3-513e-8d7b-f058667d5f8b",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for 3ef1cd4c-f8f3-513e-8d7b-f058667d5f8b",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/3ef1cd4c-f8f3-513e-8d7b-f058667d5f8b.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "402cb72e-4abf-52c8-b454-f4abc690ff96",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        2.9537910799776,
+                        49.651664102158
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        2.4854140312172,
+                        48.661511413699
+                    ],
+                    [
+                        2.5452989525371,
+                        48.789555888703
+                    ],
+                    [
+                        2.6132506532587,
+                        48.934281934121
+                    ],
+                    [
+                        2.6811762595796,
+                        49.078992688478
+                    ],
+                    [
+                        2.7493762312596,
+                        49.223626464552
+                    ],
+                    [
+                        2.8181246270469,
+                        49.368160700023
+                    ],
+                    [
+                        2.8870435121686,
+                        49.512679476673
+                    ],
+                    [
+                        2.9537910799776,
+                        49.651664102158
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2A_MSIL1C_20220831T105631_N0400_R094_T31UDQ_20220831T143926.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-08-31T10:56:31.024000Z",
+            "completionDate": "2022-08-31T10:56:31.024000Z",
+            "productType": "S2MSI1C",
+            "processingLevel": "S2MSI1C",
+            "platform": "S2A",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "INS-NOBS",
+            "orbitNumber": 37557,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L1C/2022/08/31/S2A_MSIL1C_20220831T105631_N0400_R094_T31UDQ_20220831T143926.SAFE/S2A_MSIL1C_20220831T105631_N0400_R094_T31UDQ_20220831T143926-ql.jpg",
+            "updated": "2022-08-31T17:44:22.399616Z",
+            "published": "2022-08-31T17:44:22.399616Z",
+            "snowCover": 0,
+            "cloudCover": 3.19795105415195,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>2.9537910799776,49.651664102158 1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 2.4854140312172,48.661511413699 2.5452989525371,48.789555888703 2.6132506532587,48.934281934121 2.6811762595796,49.078992688478 2.7493762312596,49.223626464552 2.8181246270469,49.368160700023 2.8870435121686,49.512679476673 2.9537910799776,49.651664102158</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.1815170419779673,
+                    49.191079499290765
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L1C/2022/08/31/S2A_MSIL1C_20220831T105631_N0400_R094_T31UDQ_20220831T143926.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 94,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2A_20220831T105631_037557_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/402cb72e-4abf-52c8-b454-f4abc690ff96",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for 402cb72e-4abf-52c8-b454-f4abc690ff96",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/402cb72e-4abf-52c8-b454-f4abc690ff96.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "b49cc3bd-8b17-51c7-9426-98856ebcc7ca",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        2.9644882385556,
+                        49.651721871827
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        2.4974865185654,
+                        48.661575657385
+                    ],
+                    [
+                        2.5204091101114,
+                        48.711066871435
+                    ],
+                    [
+                        2.5877473384462,
+                        48.85572122007
+                    ],
+                    [
+                        2.6552035850267,
+                        49.000317526469
+                    ],
+                    [
+                        2.7228544525551,
+                        49.144903620269
+                    ],
+                    [
+                        2.7910434438115,
+                        49.289427911863
+                    ],
+                    [
+                        2.8598543930807,
+                        49.433936700754
+                    ],
+                    [
+                        2.928954857202,
+                        49.578599120908
+                    ],
+                    [
+                        2.9644882385556,
+                        49.651721871827
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2A_MSIL1C_20220314T105831_N0400_R094_T31UDQ_20220314T132051.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-03-14T10:58:31.024000Z",
+            "completionDate": "2022-03-14T10:58:31.024000Z",
+            "productType": "S2MSI1C",
+            "processingLevel": "S2MSI1C",
+            "platform": "S2A",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "INS-NOBS",
+            "orbitNumber": 35126,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L1C/2022/03/14/S2A_MSIL1C_20220314T105831_N0400_R094_T31UDQ_20220314T132051.SAFE/S2A_MSIL1C_20220314T105831_N0400_R094_T31UDQ_20220314T132051-ql.jpg",
+            "updated": "2022-03-14T16:02:20.792040Z",
+            "published": "2022-03-14T16:02:20.792040Z",
+            "snowCover": 0,
+            "cloudCover": 2.64401997555131,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>2.9644882385556,49.651721871827 1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 2.4974865185654,48.661575657385 2.5204091101114,48.711066871435 2.5877473384462,48.85572122007 2.6552035850267,49.000317526469 2.7228544525551,49.144903620269 2.7910434438115,49.289427911863 2.8598543930807,49.433936700754 2.928954857202,49.578599120908 2.9644882385556,49.651721871827</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.186816002953705,
+                    49.190616182468894
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L1C/2022/03/14/S2A_MSIL1C_20220314T105831_N0400_R094_T31UDQ_20220314T132051.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 94,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2A_20220314T105831_035126_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/b49cc3bd-8b17-51c7-9426-98856ebcc7ca",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for b49cc3bd-8b17-51c7-9426-98856ebcc7ca",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/b49cc3bd-8b17-51c7-9426-98856ebcc7ca.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "a9cb15cc-a30e-5225-9bc7-877215e8cba6",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        2.9696149988992,
+                        49.651749558735
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        2.5030122269088,
+                        48.661605062416
+                    ],
+                    [
+                        2.534660855182,
+                        48.730122513697
+                    ],
+                    [
+                        2.5759758442345,
+                        48.81894674371
+                    ],
+                    [
+                        2.6023744518229,
+                        48.875805660088
+                    ],
+                    [
+                        2.6698150605285,
+                        49.020667597378
+                    ],
+                    [
+                        2.7378950588173,
+                        49.165497717423
+                    ],
+                    [
+                        2.8063382016982,
+                        49.310308896615
+                    ],
+                    [
+                        2.875456941743,
+                        49.45497684677
+                    ],
+                    [
+                        2.9103334355274,
+                        49.52798380136
+                    ],
+                    [
+                        2.9441301893318,
+                        49.598866692774
+                    ],
+                    [
+                        2.9696149988992,
+                        49.651749558735
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2B_MSIL2A_20220319T105649_N0400_R094_T31UDQ_20220319T133349.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-03-19T10:56:49.024000Z",
+            "completionDate": "2022-03-19T10:56:49.024000Z",
+            "productType": "S2MSI2A",
+            "processingLevel": "S2MSI2A",
+            "platform": "S2B",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "",
+            "orbitNumber": 26289,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L2A/2022/03/19/S2B_MSIL2A_20220319T105649_N0400_R094_T31UDQ_20220319T133349.SAFE/S2B_MSIL2A_20220319T105649_N0400_R094_T31UDQ_20220319T133349-ql.jpg",
+            "updated": "2022-03-19T20:25:50.364697Z",
+            "published": "2022-03-19T20:25:50.364697Z",
+            "snowCover": 0,
+            "cloudCover": 0.026274,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>2.9696149988992,49.651749558735 1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 2.5030122269088,48.661605062416 2.534660855182,48.730122513697 2.5759758442345,48.81894674371 2.6023744518229,48.875805660088 2.6698150605285,49.020667597378 2.7378950588173,49.165497717423 2.8063382016982,49.310308896615 2.875456941743,49.45497684677 2.9103334355274,49.52798380136 2.9441301893318,49.598866692774 2.9696149988992,49.651749558735</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.1894671694247956,
+                    49.19046368860441
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L2A/2022/03/19/S2B_MSIL2A_20220319T105649_N0400_R094_T31UDQ_20220319T133349.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 94,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2B_20220319T105649_026289_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/a9cb15cc-a30e-5225-9bc7-877215e8cba6",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for a9cb15cc-a30e-5225-9bc7-877215e8cba6",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/a9cb15cc-a30e-5225-9bc7-877215e8cba6.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "04b1a47d-ab19-5e19-9cb8-8ad8fd4eb082",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        3.1325513271237,
+                        48.664955151836
+                    ],
+                    [
+                        3.1352135957809,
+                        49.652643868752
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2B_MSIL1C_20220306T104819_N0400_R051_T31UDQ_20220306T131459.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-03-06T10:48:19.024000Z",
+            "completionDate": "2022-03-06T10:48:19.024000Z",
+            "productType": "S2MSI1C",
+            "processingLevel": "S2MSI1C",
+            "platform": "S2B",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "INS-NOBS",
+            "orbitNumber": 26103,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L1C/2022/03/06/S2B_MSIL1C_20220306T104819_N0400_R051_T31UDQ_20220306T131459.SAFE/S2B_MSIL1C_20220306T104819_N0400_R051_T31UDQ_20220306T131459-ql.jpg",
+            "updated": "2022-03-06T15:17:53.960063Z",
+            "published": "2022-03-06T15:17:53.960063Z",
+            "snowCover": 0,
+            "cloudCover": 0.140941801785661,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 3.1325513271237,48.664955151836 3.1352135957809,49.652643868752 1.6142723681857,49.644430073461</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.3808906045340774,
+                    49.15639852556323
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L1C/2022/03/06/S2B_MSIL1C_20220306T104819_N0400_R051_T31UDQ_20220306T131459.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 51,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2B_20220306T104819_026103_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/04b1a47d-ab19-5e19-9cb8-8ad8fd4eb082",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for 04b1a47d-ab19-5e19-9cb8-8ad8fd4eb082",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/04b1a47d-ab19-5e19-9cb8-8ad8fd4eb082.json"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "1d5bdb5e-a7b6-5d92-905b-1ad21ad61793",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ],
+                    [
+                        1.6415462250802,
+                        48.657020775058
+                    ],
+                    [
+                        3.1325513271237,
+                        48.664955151836
+                    ],
+                    [
+                        3.1352135957809,
+                        49.652643868752
+                    ],
+                    [
+                        1.6142723681857,
+                        49.644430073461
+                    ]
+                ]
+            ]
+        },
+        "properties": {
+            "collection": "SENTINEL-2",
+            "status": "ONLINE",
+            "license": {
+                "licenseId": "unlicensed",
+                "hasToBeSigned": "never",
+                "grantedCountries": null,
+                "grantedOrganizationCountries": null,
+                "grantedFlags": null,
+                "viewService": "public",
+                "signatureQuota": -1,
+                "description": {
+                    "shortName": "No license"
+                }
+            },
+            "parentIdentifier": null,
+            "title": "S2B_MSIL2A_20220306T104819_N0400_R051_T31UDQ_20220306T142351.SAFE",
+            "description": "The Copernicus Sentinel-2 mission consists of two polar-orbiting satellites that are positioned in the same sun-synchronous orbit, with a phase difference of 180\u00b0. It aims to monitor changes in land surface conditions. The satellites have a wide swath width (290 km) and a high revisit time. Sentinel-2 is equipped with an optical instrument payload that samples 13 spectral bands: four bands at 10 m, six bands at 20 m and three bands at 60 m spatial resolution [https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2].",
+            "organisationName": "ESA",
+            "startDate": "2022-03-06T10:48:19.024000Z",
+            "completionDate": "2022-03-06T10:48:19.024000Z",
+            "productType": "S2MSI2A",
+            "processingLevel": "S2MSI2A",
+            "platform": "S2B",
+            "instrument": "MSI",
+            "resolution": 60.0,
+            "sensorMode": "",
+            "orbitNumber": 26103,
+            "quicklook": null,
+            "thumbnail": "https://catalogue.dataspace.copernicus.eu/get-object?path=/Sentinel-2/MSI/L2A/2022/03/06/S2B_MSIL2A_20220306T104819_N0400_R051_T31UDQ_20220306T142351.SAFE/S2B_MSIL2A_20220306T104819_N0400_R051_T31UDQ_20220306T142351-ql.jpg",
+            "updated": "2022-03-06T18:14:23.206824Z",
+            "published": "2022-03-06T18:14:23.206824Z",
+            "snowCover": 0,
+            "cloudCover": 4.405755,
+            "gmlgeometry": "<gml:Polygon srsName=\"EPSG:4326\"><gml:outerBoundaryIs><gml:LinearRing><gml:coordinates>1.6142723681857,49.644430073461 1.6415462250802,48.657020775058 3.1325513271237,48.664955151836 3.1352135957809,49.652643868752 1.6142723681857,49.644430073461</gml:coordinates></gml:LinearRing></gml:outerBoundaryIs></gml:Polygon>",
+            "centroid": {
+                "type": "Point",
+                "coordinates": [
+                    2.3808906045340774,
+                    49.15639852556323
+                ]
+            },
+            "productIdentifier": "/eodata/Sentinel-2/MSI/L2A/2022/03/06/S2B_MSIL2A_20220306T104819_N0400_R051_T31UDQ_20220306T142351.SAFE",
+            "orbitDirection": "DESCENDING",
+            "timeliness": null,
+            "relativeOrbitNumber": 51,
+            "processingBaseline": 4.0,
+            "missionTakeId": "GS2B_20220306T104819_026103_N04.00",
+            "services": {
+                "download": {
+                    "url": "https://catalogue.dataspace.copernicus.eu/download/1d5bdb5e-a7b6-5d92-905b-1ad21ad61793",
+                    "mimeType": "application/octet-stream",
+                    "size": 0
+                }
+            },
+            "links": [
+                {
+                    "rel": "self",
+                    "type": "application/json",
+                    "title": "GeoJSON link for 1d5bdb5e-a7b6-5d92-905b-1ad21ad61793",
+                    "href": "https://catalogue.dataspace.copernicus.eu/resto/collections/SENTINEL-2/1d5bdb5e-a7b6-5d92-905b-1ad21ad61793.json"
+                }
+            ]
+        }
+    }
+]
